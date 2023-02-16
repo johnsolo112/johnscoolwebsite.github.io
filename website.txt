@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+      <style>
+          h2{font-family="serif";}
+           h2{ background-color="blue";}
+          body{display:'="flex";}
+          
+      </style>
+          
+    <title>John's Cool Website</title>
+  </head>
+  <body>
+      <h1>Current News and Weather</h1>
+      <h2>Weather</h2>
+      <p>
+      <a class="weatherwidget-io" href="https://forecast7.com/en/41d06n124d14/trinidad/?unit=us" data-label_1="TRINIDAD" data-label_2="WEATHER" data-theme="original" >TRINIDAD WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
+      <a class="weatherwidget-io" href="https://forecast7.com/en/40d94n123d63/willow-creek/?unit=us" data-label_1="WILLOW CREEK" data-label_2="WEATHER" data-theme="original" >WILLOW CREEK WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
+      <a class="weatherwidget-io" href="https://forecast7.com/en/21d09n157d02/kaunakakai/?unit=us" data-label_1="KAUNAKAKAI" data-label_2="WEATHER" data-theme="original" >KAUNAKAKAI WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
+      </p>
+      <h2>News</h2>
+      <p><h3>CNN</h3>
+      <div id="widgetmain" style="text-align:left;overflow-y:auto;overflow-x:hidden;width:200px;background-color:#transparent; border:1px solid #333333;"><div id="rsswidget" style="height:500px;"><iframe src="http://us1.rssfeedwidget.com/getrss.php?time=1588276792771&amp;x=http%3A%2F%2Frss.cnn.com%2Frss%2Fcnn_topstories.rss&amp;w=200&amp;h=500&amp;bc=333333&amp;bw=1&amp;bgc=transparent&amp;m=20&amp;it=true&amp;t=(default)&amp;tc=333333&amp;ts=15&amp;tb=transparent&amp;il=true&amp;lc=0000FF&amp;ls=14&amp;lb=false&amp;id=true&amp;dc=333333&amp;ds=14&amp;idt=true&amp;dtc=284F2D&amp;dts=12" border="0" hspace="0" vspace="0" frameborder="no" marginwidth="0" marginheight="0" style="border:0; padding:0; margin:0; width:200px; height:500px;" id="rssOutput">Reading RSS Feed ...</iframe></div><div style="text-align:right;margin-bottom:0;border-top:1px solid #333333;" id="widgetbottom"><span style="font-size:70%"><a href="http://www.rssfeedwidget.com">rss feed widget</a>&nbsp;</span><br></div></div>
+      <h3>CBNC</h3>
+      <div id="widgetmain" style="text-align:left;overflow-y:auto;overflow-x:hidden;width:200px;background-color:#transparent; border:1px solid #333333;"><div id="rsswidget" style="height:500px;"><iframe src="http://us1.rssfeedwidget.com/getrss.php?time=1588277018870&amp;x=https%3A%2F%2Fwww.cnbc.com%2Fid%2F15837362%2Fdevice%2Frss%2Frss.html&amp;w=200&amp;h=500&amp;bc=333333&amp;bw=1&amp;bgc=transparent&amp;m=20&amp;it=true&amp;t=(default)&amp;tc=333333&amp;ts=15&amp;tb=transparent&amp;il=true&amp;lc=0000FF&amp;ls=14&amp;lb=false&amp;id=true&amp;dc=333333&amp;ds=14&amp;idt=true&amp;dtc=284F2D&amp;dts=12" border="0" hspace="0" vspace="0" frameborder="no" marginwidth="0" marginheight="0" style="border:0; padding:0; margin:0; width:200px; height:500px;" id="rssOutput">Reading RSS Feed ...</iframe></div><div style="text-align:right;margin-bottom:0;border-top:1px solid #333333;" id="widgetbottom"><span style="font-size:70%"><a href="http://www.rssfeedwidget.com">rss feed widget</a>&nbsp;</span><br></div></div>
+      
+      <h1>Media Gallery</h1>
+      <p><em><h3>Hello,and welcome to my <strong>Media GALLERY</strong> In it you will find a handful of my favorite media from far and near across the web. They all will have a 1-5 scale rating. Any questions? No? Good!</h3> <br>Enjoy!!!!</br> </em> </p>
+<h2>Pictures</h2>
+<p>
+          <img src="200.gif" alt="Han Solo gif" height="200" >
+<p><strong>4.5</p></strong>
+          <img src="Arrow.jpeg" height="200">
+<p><strong>4.0</p></strong>
+<img src="download.jpeg" height="200">
+<p><strong>5.0</p></strong>
+<img src="john.jpg" height="200">
+<p><strong>3.75</p></strong>
+<img src="class.jpeg" height="200">
+<p><strong>2.5</p></strong>
+<img src="rey.jpg" height="200">
+<p><strong>4.0</p></strong>
+<img src="tenor.gif" height="200" >
+<p><strong>5.0</p></strong>
+<img src="cool.jpg" height="200">
+<p><strong>3.5</p></strong>
+
+<h2>Songs</h2>
+<embed src="billion.mp3" width="200">
+<embed src="clap.mp3" width="200">
+<embed src="garage.mp3" width="200">
+<embed src="devil.mp3" width="200">
+<h2>Movies</h2>
+<embed src="rey.mp4">
+<embed src="han solo 1.mp4">
+<p>
+    <h2>Greateest Quotes</h2
+        <h3><em>"Do or do not-there is not try"-Yoda,The Empire Strikes Back
+        <p></em>
+
+<!--hello humans !-->
+<h2>THANKS FOR READING !!!!!!!☺</h2>
+
+                                                                                                                                      
+         
+  </body>
+</html>
+    
